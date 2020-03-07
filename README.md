@@ -16,7 +16,7 @@ sideload apps using altstore no beta needed
 - More Coming Soon
 <br>
 <br>
-# How does this work
+<h1>How does this work</h1>
 <br>
 Since AltStore v1.2 you can sideload unc0ver but nothing else, that's kinda not true i found out that altstore detects unc0ver with the bundle id, so i can change any app .ipa bundle id to the unc0ver app bundle and it will work with AltStore, but of corse i has some limit's
 <br>
