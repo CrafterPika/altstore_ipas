@@ -26,3 +26,8 @@ Since AltStore v1.2 you can sideload unc0ver but nothing else, that's kinda not 
 - You only can use one .ipa with this if you want a another .ipa you need to delete the old one
 <br>
 - Riley could patch this
+<br>
+<br>
+<h1>Support</h1>
+<br>
+Please Support Riley Testut on <a href="https://www.patreon.com/rileytestut">Patreon</a> for his awesome work!!!
