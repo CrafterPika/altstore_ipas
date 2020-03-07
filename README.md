@@ -21,7 +21,7 @@ Since AltStore v1.2 you can sideload unc0ver but nothing else, that's kinda not 
 <br>
 <h1>Limit's</h1>
 <br>
-- You only can use one .ipa with this if you want a another .ipa you need to delete the old one
+- You only can use one app with this if you want a another app you need to delete the old one
 <br>
 - Riley could patch this
 <br>
