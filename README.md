@@ -11,8 +11,6 @@ sideload apps using altstore no beta needed
 <br>
 - <a href="https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/ppsspp_altstore_v1.9.3.ipa?raw=true">PPSSPP</a>
 <br>
-- <a href="https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/iTorrent_altstore_v1.7.3.ipa?raw=true">iTorrent</a>
-<br>
 - More Coming Soon
 <br>
 <br>
