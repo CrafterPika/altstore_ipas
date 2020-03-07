@@ -13,6 +13,8 @@ sideload apps using altstore no beta needed
 <br>
 - <a href="https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/iTransmission_altstore_v5.0.ipa?raw=true">iTransmission</a>
 <br>
+- <a href="https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/GBA4iOS_altstore_v2.1.1.ipa?raw=true">GBA4iOS</a>
+<br>
 - More Coming Soon
 <br>
 <br>
