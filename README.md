@@ -1,5 +1,6 @@
 # altstore_ipas
 sideload apps using altstore no beta needed
+just needs <a href="https://altstore.io/">AltStore</a> on you're device
 <br>
 <br>
 # ipa's
