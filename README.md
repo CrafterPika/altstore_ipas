@@ -5,16 +5,16 @@ sideload apps using altstore no beta needed
 # ipa's
 <br>
 <br>
-[Spotify++](https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/spotify++_altstore_v1.0.ipa?raw=true)
+Spotify++: https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/spotify++_altstore_v1.0.ipa?raw=true
 <br>
 <br>
-[iNDS](https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/iNDS_altstore_v1.10.7.ipa?raw=true)
+iNDS: https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/iNDS_altstore_v1.10.7.ipa?raw=true
 <br>
 <br>
-[PPSSPP](https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/ppsspp_altstore_v1.9.3.ipa?raw=true)
+PPSSPP: https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/ppsspp_altstore_v1.9.3.ipa?raw=true
 <br>
 <br>
-[iTorrent](https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/iTorrent_altstore_v1.7.3.ipa?raw=true)
+iTorrent: https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/iTorrent_altstore_v1.7.3.ipa?raw=true
 <br>
 <br>
 More Coming Soon
