@@ -25,9 +25,9 @@ Since AltStore v1.2 you can sideload unc0ver but nothing else, that's kinda not 
 <br>
 - You only can use one app with this if you want a another app you need to delete the old one
 <br>
-- Riley could patch this
-<br>
 - Some Apps don't work even you changed the bundle id
+<br>
+- Riley could patch this (i don't think he will do it, but he can)
 <br>
 <br>
 <h1>Support Riley Testut</h1>
