@@ -3,6 +3,8 @@ sideload apps using altstore no beta needed
 <br>
 just needs <a href="https://altstore.io/">AltStore</a> on you're device
 <br>
+Fun fact: RileyTestut even <a href="https://twitter.com/rileytestut/status/1237039200752418816?s=20">saw</a> it
+<br>
 <br>
 # ipa's
 <br>
