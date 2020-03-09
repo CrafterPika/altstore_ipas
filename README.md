@@ -19,6 +19,10 @@ just needs <a href="https://altstore.io/">AltStore</a> on you're device
 <br>
 - <a href="https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/Delta_altstore_v1.2b.ipa?raw=true">Delta DS Beta</a>
 <br>
+- <a href="https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/Clip_altstore_v1.0b.ipa?raw=true">Clip Beta</a>
+<br>
+- <a href="https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/AltStore-beta_altstore_v1.2b4.ipa?raw=true">AltStore beta</a>
+<br>
 - More Coming Soon™️
 <br>
 <br>
