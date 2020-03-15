@@ -1,3 +1,7 @@
+<h1>Update!!</h1>
+<a href="https://github.com/Thunder7yoshi/AltStore-Beta">Thunder7</a> and <a href="https://crafterpika.github.io/dl/altstore/altserver_beta_installer/">I</a> made Patched altserver which installs the beta version directly
+<br>
+<br>
 # altstore_ipas
 sideload apps using altstore no beta needed
 <br>
