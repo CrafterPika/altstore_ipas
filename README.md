@@ -10,7 +10,7 @@ just needs <a href="https://altstore.io/">AltStore</a> on you're device
 Fun fact: RileyTestut even <a href="https://twitter.com/rileytestut/status/1237039200752418816?s=20">saw</a> it
 <br>
 <br>
-<h1>ipa's</a>
+<h1>ipa's</h1>
 <br>
 <br>
 - <a href="https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/spotify++_altstore_v1.0.ipa?raw=true">Spotify++</a>
