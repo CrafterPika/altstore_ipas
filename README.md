@@ -1,5 +1,5 @@
 <h1>Update!!</h1>
-<a href="https://github.com/Thunder7yoshi/AltStore-Beta">Thunder7</a> and <a href="https://crafterpika.github.io/dl/altstore/altserver_beta_installer/">CrafterPika (i)</a> made Patched altserver which installs the beta version directly, so this Repo is now not really useful anymore and an Archive
+<a href="https://github.com/Thunder7yoshi/AltStore-Beta">Thunder7</a> and <a href="https://crafterpika.github.io/dl/altstore/altserver_beta_installer/">CrafterPika (me)</a> made Patched altserver which installs the beta version directly, so this Repo is now not really useful anymore and an Archive
 <br>
 <br>
 <h1>altstore_ipas</h1>
