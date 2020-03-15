@@ -2,7 +2,7 @@
 <a href="https://github.com/Thunder7yoshi/AltStore-Beta">Thunder7</a> and <a href="https://crafterpika.github.io/dl/altstore/altserver_beta_installer/">CrafterPika (i)</a> made Patched altserver which installs the beta version directly
 <br>
 <br>
-<h1>altstore_ipas</a>
+<h1>altstore_ipas</h1>
 sideload apps using altstore no beta needed
 <br>
 just needs <a href="https://altstore.io/">AltStore</a> on you're device
