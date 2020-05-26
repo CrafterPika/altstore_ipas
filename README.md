@@ -1,5 +1,9 @@
-<h1>Update!!</h1>
-<a href="https://github.com/Thunder7yoshi/AltStore-Beta">Thunder7</a> and <a href="https://crafterpika.github.io/dl/altstore/altserver_beta_installer/">CrafterPika (me)</a> made Patched altserver which installs the beta version directly, so this Repo is now not really useful anymore and an Archive
+<h1>Repo deprecated.</h1>
+<p>Riley Testut <a href="https://twitter.com/altstoreio/status/1248726959607054337?s=20">Released sideloading</a> to everyone now anyway, so this repo is deprecated forever</p>
+<br>
+<br>
+<strike><h1>Update</h1>
+<a href="https://github.com/Thunder7yoshi/AltStore-Beta">Thunder7</a> and <a href="https://crafterpika.github.io/altstore/">CrafterPika (me)</a> made Patched altserver which installs the beta version directly, so this Repo is now not really useful anymore and an Archive</strike>
 <br>
 <br>
 <h1>altstore_ipas</h1>
